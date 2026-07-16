@@ -8,3 +8,7 @@
 | BTP Audit Log         | OAuth 2.0 Client Credentials Grant                       | Good for machine-to-machine (M2M) scenarios. Use with strong secret management and rotation. | No            |
 | BTP Audit Log         | OAuth 2.0 Client Credentials Grant with mTLS Client Authentication | **Recommended** – Stronger security via mutual TLS (X.509 certificates). Preferred for production environments. | Yes           |
 | Destination Service.  | OAuth 2.0 Client Credentials Grant.                      |      |.       |
+
+
+
+- [Calling the Destination Service REST API](https://help.sap.com/docs/connectivity/sap-btp-connectivity-cf/calling-destination-service-rest-api?locale=en-US#2.-get-credentials)
