@@ -1,4 +1,4 @@
-'''json
+```json
 {
   "preferences": {
     "coworkLegacyRootGrantsPruned": true,
@@ -107,4 +107,4 @@
   },
   "coworkUserFilesPath": "/Users/guidojacobs/Claude"
 }
-,,,
+```
